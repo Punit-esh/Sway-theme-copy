@@ -186,7 +186,7 @@ h1,h2,h3,h4,h5,h6,.f700{
 }
 /* scrollspy */
 .scrollspy_main{
-    border:1px solid black;
+    /* border:1px solid black; */
     position: fixed;
     bottom:20px;
     z-index: 10;
@@ -847,7 +847,7 @@ z-index: 2;
 .section9 .floating{
     /* position: absolute; */
     border-radius: 50px;
-    background: url("../project2/img/s9/circles-shapes.png");
+    background: url("./img/s9/circles-shapes.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
